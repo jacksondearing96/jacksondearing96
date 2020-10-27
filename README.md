@@ -25,6 +25,7 @@
 <br />
 <br />
 
+<img align="center" alt="Jackson's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksondearing96&theme=dark&show_icons=true&hide_border=true" />
 <img align="center" alt="Jackson's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=jacksondearing96&theme=dark&show_icons=true&hide_border=true" />
 
 [website]: http://www.jacksondearing.com
