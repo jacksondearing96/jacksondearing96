@@ -11,9 +11,10 @@
 
 <div style="text-align:center">
 <img align="left" alt="C++" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="Java" width="36px" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" />
+<img align="left" alt="Java" width="28px" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" />
 <img align="left" alt="C" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 <img align="left" alt="Python" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
+<img align="left" alt="Android" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png"/>
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
