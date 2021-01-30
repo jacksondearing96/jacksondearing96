@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Jackson Dearing | LinkedIn" width="22px" src="https://i.pinimg.com/originals/73/59/a8/7359a8e49a6fadcc653bd947f91df724.jpg" />](https://www.linkedin.com/in/jackson-dearing-2806a716a/)
+[<img align="left" alt="Jackson Dearing | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/jackson-dearing-2806a716a/)
 
 <br />
 
