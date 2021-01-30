@@ -9,6 +9,7 @@
 ### Languages and Technologies:
 
 <p align="center">
+<img align="left" alt="Vim" width="36px" src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png"/>
 <img align="left" alt="C++" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="Java" width="28px" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" />
 <img align="left" alt="C" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
