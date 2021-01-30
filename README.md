@@ -2,8 +2,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jacksondearing.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jacksondearing.com)
-[<img align="left" alt="Jackson Dearing | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jackson-dearing-2806a716a/)
+[<img align="left" alt="Jackson Dearing | LinkedIn" width="22px" src="https://i.pinimg.com/originals/73/59/a8/7359a8e49a6fadcc653bd947f91df724.jpg" />](https://www.linkedin.com/in/jackson-dearing-2806a716a/)
 
 <br />
 
@@ -31,6 +30,4 @@
 <p align="center"><img alt="Jackson's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksondearing96&theme=dark&show_icons=true&hide_border=true" /></p>
 <p align="center"><img align="center" alt="Jackson's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=jacksondearing96&theme=dark&show_icons=true&hide_border=true" /></p>
 
-[website]: https://jacksondearing.com
-[linkedin]: https://www.linkedin.com/in/jackson-dearing-2806a716a/
 
