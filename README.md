@@ -2,12 +2,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jacksondearing.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Jackson Dearing | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jacksondearing.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jacksondearing.com)
+[<img align="left" alt="Jackson Dearing | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jackson-dearing-2806a716a/)
 
 <br />
 
-### Languages and Tools:
+### Languages and Technologies:
 
 <p align="center">
 <img align="left" alt="C++" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
